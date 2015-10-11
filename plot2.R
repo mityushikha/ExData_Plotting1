@@ -1,7 +1,6 @@
 #-----------------------------------------------------------------------------------#
 #            Course Project 1 - Electric Power Consumption                          #
 #-----------------------------------------------------------------------------------#
-setwd("C:/Users/mityu_000/Documents/Coursera/Data Science Specialisation/04. Exploratory Data Analysis")
 setInternet2(TRUE)
 library(data.table)
 library(lubridate)
